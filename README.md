@@ -1,2 +1,2 @@
 # calculator
-    A basic calculator app with a UI.
+A basic calculator app created as part of the curriculum for the Odin Project.
