@@ -1,2 +1,2 @@
 # calculator
-A basic calculator app created as part of the curriculum for the Odin Project.
+A basic calculator webapp created as part of the curriculum for The Odin Project.
